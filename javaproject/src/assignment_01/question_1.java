@@ -28,8 +28,7 @@ class Student
 	
 	Student()
 	{
-		age = 0;
-		percentage = 0;
+		
 	}
 	Student(String s, int a, char sec, int per) // Constructor name should be equal to class name
 	{

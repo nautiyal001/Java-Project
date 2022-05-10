@@ -17,7 +17,7 @@ public class question_3 {
 
 interface in1
 {
-	void display();
+	void display(int p);
 }
 
 class testClass
